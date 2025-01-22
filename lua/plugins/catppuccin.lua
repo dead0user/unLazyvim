@@ -12,6 +12,10 @@ return {
         nvimtree = true,
         treesitter = true,
         notify = true,
+        mini = {
+          enabled = true,
+          indentscope_color = "",
+        },
       },
     })
   end,
